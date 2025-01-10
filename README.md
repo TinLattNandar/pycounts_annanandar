@@ -10,12 +10,12 @@ $ pip install pycounts_annanandar
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_annanandar` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_annanandar.pycounts_annanandar import count_words
+from pycounts_annanandar.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
